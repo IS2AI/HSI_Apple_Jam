@@ -1,8 +1,6 @@
 # Hyperspectral Imaging for Quality Assessment of Processed Foods: A Case Study on Sugar Content in Apple Jam
 <img width="4271" height="2484" alt="Picture1" src="https://github.com/user-attachments/assets/524db8f0-99a2-414a-85c5-cc3b3d959f6a" />
 
-![Faces in Event Streams]
-
 This repository accompanies our study on **non-destructive sugar content estimation** in apple jam using **VNIR hyperspectral imaging (HSI)** and machine learning. It includes a reproducible set of Jupyter notebooks covering preprocessing, dataset construction, and model training/evaluation with classical ML and deep learning.
 
 
