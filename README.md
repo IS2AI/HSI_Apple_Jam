@@ -114,13 +114,6 @@ Run all cells. The notebook:
 - reports **RMSE / MAE / R²** on the Test set
 
 
-## Downloading the Repository
-
-```bash
-git clone <THIS_REPO_URL>
-cd <THIS_REPO_FOLDER>
-```
-
 ## If you use the dataset/source code/pre-trained models in your research, please cite our work:
 
 Lissovoy, D., Zakeryanova, A., Orazbayev, R., Rakhimzhanova, T., Lewis, M., Varol, H. A., & Chan, M.-Y. (2025). Hyperspectral Imaging for Quality Assessment of Processed Foods: A Case Study on Sugar Content in Apple Jam. Foods, 14(21), 3585. https://doi.org/10.3390/foods14213585
